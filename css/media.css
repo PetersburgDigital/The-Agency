@@ -44,14 +44,6 @@
         --offset: 100px;
     }
 
-    /* .portfolio-item--reverse .portfolio-item_col:first-child {
-        order: 1;
-    } */
-    
-    /* .portfolio-item--reverse .portfolio-item_col:last-child {
-        order: 2;
-    } */
-
     .portfolio-item:not(:last-child) {
         margin-bottom: 60px;
     }
