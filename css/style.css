@@ -575,7 +575,8 @@ body {
     margin-bottom: 30px;
 }
 
-.hero_input:focus {
+.hero_input:focus,
+.footer_input:focus {
     outline: none;
 }
 
